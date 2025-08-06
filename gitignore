@@ -1,0 +1,5 @@
+# Ignore arquivos e pastas ocultas do VSCode e sistema
+.vscode/
+__pycache__/
+*.pyc
+.env
